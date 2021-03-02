@@ -1,2 +1,2 @@
 # Snake
-An Implementation of "Snake" game in C language
+An Implementation of "Snake" game in C language.
